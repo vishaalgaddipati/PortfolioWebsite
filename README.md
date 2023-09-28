@@ -9,4 +9,5 @@ This was one of the very first projects I created in order to apply some of know
 Data Structures and Object Oriented Design, Software Tools and Techniques Lab, Discrete Mathematics, Calculus and Analytic Geometry for Science and Engineering, Computer Organization and Systems Programming.
 ## Contact Me
 Email: vishaalg20@gmail.com
-Github: https://github.com/vishaalgaddipati
+- - -
+[Github](https://github.com/vishaalgaddipati)
