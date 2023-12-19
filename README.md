@@ -12,7 +12,7 @@ This was one of the very first projects I created in order to apply some of know
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/Screenshot%202023-12-19%20at%203.36.19%E2%80%AFPM.png?raw=true)
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/Screenshot%202023-12-19%20at%203.36.41%E2%80%AFPM.png?raw=true)
 ## Relevant Courses
-Data Structures and Object Oriented Design, Software Tools and Techniques Lab, Discrete Mathematics, Calculus and Analytic Geometry for Science and Engineering, Computer Organization and Systems Programming.
+Data Structures and Object Oriented Design, Advanced Data Structures, Software Tools and Techniques Lab, Discrete Mathematics, Statistical Methods, Calculus and Analytic Geometry for Science and Engineering, Computer Organization and Systems Programming, Theory of Computation, and Recommender Systems and Web Mining.
 ## Contact Me
 Email: vishaalg20@gmail.com
 - - -
