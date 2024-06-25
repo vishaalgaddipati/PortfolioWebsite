@@ -18,9 +18,9 @@ A tool created in an Advanced Data Structures course to compress and uncompress 
 ### Raytracer
 A ray tracer created in a Computer Graphics course that renders scenes with high quality shadows and reflections. The source code is in C++ and includes implementation of ray-object intersection, point and directional lighting, shadow rays, and more. Course code is available upon request.
 <img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/scene4-specular.png?raw=true" alt="Rendered table with shadows and objects" width=1000>
-<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/scene5.png?raw=true" alt="Rendered table with shadows and objects" width=1000>
-<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/scene6.png?raw=true" alt="Rendered table with shadows and objects" width=1000>
-<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/scene7.png?raw=true" alt="Rendered table with shadows and objects" width=1000>
+<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/scene5.png?raw=true" alt="Rendered crowd of balls with shadows and lighting" width=1000>
+<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/scene6.png?raw=true" alt="Rendered complex scene with shadows and objects" width=1000>
+<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/scene7.png?raw=true" alt="Rendered dragon" width=1000>
 ### Developer Journal
 TODO
 ### Linear Regression
