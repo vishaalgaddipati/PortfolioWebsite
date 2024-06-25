@@ -25,7 +25,10 @@ A ray tracer created in a Computer Graphics course that renders scenes with high
 TODO
 ### Linear Regression
 This is a report revolving around utilizing data science in practice to discover if there is a correlation between weather and division 1 college basketball players. Linear regression was used following the analysis of data to rationalize the hypothesis, which can be found in the Jupyter notebook housing the report [here](https://github.com/vishaalgaddipati/LinearRegression/blob/main/FinalProject_group69.ipynb). Here are some data visualizations from the project:
-![]()
+![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/state_temps.png?raw=true)
+![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/players_per_state.png?raw=true)
+![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/players_per_state_sorted.png?raw=true)
+![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/temp_vs_player.png?raw=true)
 ## Relevant Courses
 Software Engineering, Data Structures and Object Oriented Design, Advanced Data Structures, Software Tools and Techniques Lab, Discrete Mathematics, Statistical Methods, Computer Graphics, Design and Analysis of Algorithms, Data Science in Practice, Calculus and Analytic Geometry for Science and Engineering, Computer Organization and Systems Programming, Theory of Computation, and Recommender Systems and Web Mining.
 ## Contact Me
