@@ -16,7 +16,8 @@ This was one of the very first projects I created in order to apply some of know
 A tool created in an Advanced Data Structures course to compress and uncompress files using Huffman Coding in C++. Course code examples available upon request.
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/huffman_program_workflow.png?raw=true)
 ### Raytracer
-TODO
+A ray tracer created in a Computer Graphics course that renders scenes with high quality shadows and reflections. The source code is in C++ and includes implementation of ray-object intersection, point and directional lighting, shadow rays, and more. Course code is available upon request.
+!()
 ### Developer Journal
 TODO
 ### Linear Regression
