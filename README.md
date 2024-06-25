@@ -15,8 +15,14 @@ This was one of the very first projects I created in order to apply some of know
 ### File Compression
 A tool created in an Advanced Data Structures course to compress and uncompress files using Huffman Coding in C++. Course code examples available upon request.
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/huffman_program_workflow.png?raw=true)
+### Raytracer
+TODO
+### Developer Journal
+TODO
+### Linear Regression
+TODO
 ## Relevant Courses
-Data Structures and Object Oriented Design, Advanced Data Structures, Software Tools and Techniques Lab, Discrete Mathematics, Statistical Methods, Calculus and Analytic Geometry for Science and Engineering, Computer Organization and Systems Programming, Theory of Computation, and Recommender Systems and Web Mining.
+Software Engineering, Data Structures and Object Oriented Design, Advanced Data Structures, Software Tools and Techniques Lab, Discrete Mathematics, Statistical Methods, Computer Graphics, Design and Analysis of Algorithms, Data Science in Practice, Calculus and Analytic Geometry for Science and Engineering, Computer Organization and Systems Programming, Theory of Computation, and Recommender Systems and Web Mining.
 ## Contact Me
 Email: vishaalg20@gmail.com
 - - -
