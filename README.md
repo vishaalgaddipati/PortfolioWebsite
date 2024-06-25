@@ -1,6 +1,6 @@
 # Vishaal Gaddipati
 ## About Me
-Hello! I'm Vishaal, a student at the University of California, San Diego majoring in Mathematics-Computer Science.
+Hello! I’m Vishaal, a recent graduate from the University of California, San Diego, where I majored in Mathematics-Computer Science. I completed my degree in three years and am now seeking opportunities to gain work experience and further develop my skills.
 ## Projects
 ### Stock Chart
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/Screenshot%202023-09-25%20at%2011.57.53%20PM.png?raw=true)
