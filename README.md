@@ -22,7 +22,23 @@ A ray tracer created in a Computer Graphics course that renders scenes with high
 <img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/scene6.png?raw=true" alt="Rendered complex scene with shadows and objects" width=1000>
 <img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/scene7.png?raw=true" alt="Rendered dragon" width=1000>
 ### Developer Journal
-TODO
+This developer journal is a CRUD application built in a software team of 11 using HTML, CSS, and JavaScript following Agile methodologies. The project consisted of several sprint and retrospectives with advisor check ins and daily standups. The research, design, implemenation, testing, and maintenance took place over a period of 10 weeks. The public repository with all documentation and information can be found [here](https://github.com/cse110-sp24-group5/cse110-sp24-group5). The link to our webapp is [https://cse110-sp24-group5.github.io/cse110-sp24-group5/source/html/index.html](https://cse110-sp24-group5.github.io/cse110-sp24-group5/source/html/index.html). This is a demo of our local-first application:
+<iframe width="800" height="500" src="https://www.youtube.com/watch?v=Pl39_WWM2oQ&ab_channel=HaleyNguyen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+My personal contributions to the project were:
+- HTML, CSS, and JS for one of the main website features – calendar with
+dynamically generated days
+- JS for keyboard shortcuts feature - in particular the calendar specific commands to
+navigate the days or months and years
+- Creating team wiki page with Markdown
+- Setup the Figma and worked on the dashboard, icons, fonts, and color scheme for
+the app
+- Helped design our hand-drawn wireframes for desktop and mobile
+- Helped revise pitch, cut down feature list, and redesign journal to be more
+dev-specific
+- Refactored JS code and added unit tests
+- Worked on meeting notes, ADRs, and PR reviews
+- Worked on brainstorming via Miro: user stories, feature list, and inspirations
 ### Linear Regression
 This is a report revolving around utilizing data science in practice to discover if there is a correlation between weather and division 1 college basketball players. Linear regression was used following the analysis of data to rationalize the hypothesis, which can be found in the Jupyter notebook housing the report [here](https://github.com/vishaalgaddipati/LinearRegression/blob/main/FinalProject_group69.ipynb). Here are some data visualizations from the project:
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/state_temps.png?raw=true)
