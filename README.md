@@ -60,6 +60,7 @@ A ray tracer created in a Computer Graphics course that renders scenes with high
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/Screenshot%202023-12-19%20at%203.36.03%E2%80%AFPM.png?raw=true)
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/Screenshot%202023-12-19%20at%203.36.19%E2%80%AFPM.png?raw=true)
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/Screenshot%202023-12-19%20at%203.36.41%E2%80%AFPM.png?raw=true)
+
 ---
 
 ### Stock Chart <a id="stock"></a>
