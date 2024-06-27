@@ -11,7 +11,7 @@ Hello! I’m Vishaal, a recent graduate from the University of California, San D
 - [File Compression](#compression)
 - [Linear Regression](#regression)
 
-### Developer Journal <div id="dev_journal"></div>
+### Developer Journal <a id="dev_journal"></a>
 This developer journal is a CRUD application built in a software team of 11 using HTML, CSS, and JavaScript following Agile methodologies. The project consisted of several sprint and retrospectives with advisor check ins and daily standups. The research, design, implemenation, testing, and maintenance took place over a period of 10 weeks. The public repository with all documentation and information can be found [here](https://github.com/cse110-sp24-group5/cse110-sp24-group5). The link to our webapp is [https://cse110-sp24-group5.github.io/cse110-sp24-group5/source/html/index.html](https://cse110-sp24-group5.github.io/cse110-sp24-group5/source/html/index.html). Here are some features of our local-first application:<br>
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/dashboard.gif?raw=true)
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/calendar-demo.gif?raw=true)
@@ -36,7 +36,7 @@ dev-specific
 
 ---
 
-### Raytracer <div id="raytracer"></div>
+### Raytracer <a id="raytracer"></a>
 A ray tracer created in a Computer Graphics course that renders scenes with high quality shadows and reflections. The source code is in C++ and includes implementation of ray-object intersection, point and directional lighting, shadow rays, and more. Course code is available upon request.
 <img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/scene4-specular.png?raw=true" alt="Rendered table with shadows and objects" width=1000>
 <img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/scene5.png?raw=true" alt="Rendered crowd of balls with shadows and lighting" width=1000>
@@ -45,7 +45,7 @@ A ray tracer created in a Computer Graphics course that renders scenes with high
 
 ---
 
-### Time Weight Collaborative Filtering <div id="time_weight"></div>
+### Time Weight Collaborative Filtering <a id="time_weight"></a>
 [Report Link](https://github.com/vishaalgaddipati/TimeWeightCollaborativeFiltering/blob/main/Time%20Weight%20Collaborative%20Filtering%20On%20Amazon%20Reviews.pdf)
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/Screenshot%202023-12-19%20at%203.35.35%E2%80%AFPM.png?raw=true)
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/Screenshot%202023-12-19%20at%203.35.48%E2%80%AFPM.png?raw=true)
@@ -54,19 +54,19 @@ A ray tracer created in a Computer Graphics course that renders scenes with high
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/Screenshot%202023-12-19%20at%203.36.41%E2%80%AFPM.png?raw=true)
 ---
 
-### Stock Chart <div id="stock"></div>
+### Stock Chart <a id="stock"></a>
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/Screenshot%202023-09-25%20at%2011.57.53%20PM.png?raw=true)
 This was one of the very first projects I created in order to apply some of knowledge from the early courses I enrolled in at UCSD in order to create something tangible. It was a great starting point that allowed me to grasp the value of self-education and being proactive. The bare bone application was created in Java utilizing data structures, GUI, CSV files, and URLConnection to connect the program and a URL resource on the internet.
 
 ---
 
-### File Compression <div id="compression"></div>
+### File Compression <a id="compression"></a>
 A tool created in an Advanced Data Structures course to compress and uncompress files using Huffman Coding in C++. Course code examples available upon request.
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/huffman_program_workflow.png?raw=true)
 
 ---
 
-### Linear Regression <div id="regression"></div>
+### Linear Regression <a id="regression"></a>
 This is a report revolving around utilizing data science in practice to discover if there is a correlation between weather and division 1 college basketball players. Linear regression was used following the analysis of data to rationalize the hypothesis, which can be found in the Jupyter notebook housing the report [here](https://github.com/vishaalgaddipati/LinearRegression/blob/main/FinalProject_group69.ipynb). Here are some data visualizations from the project:
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/state_temps.png?raw=true)
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/players_per_state.png?raw=true)
