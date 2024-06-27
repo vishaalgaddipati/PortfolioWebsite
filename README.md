@@ -11,13 +11,15 @@ Hello! I’m Vishaal, a recent graduate from the University of California, San D
 - [File Compression](#compression)
 - [Linear Regression](#regression)
 
+---
+
 ### Developer Journal <a id="dev_journal"></a>
 This developer journal is a CRUD application built in a software team of 11 using HTML, CSS, and JavaScript following Agile methodologies. The project consisted of several sprint and retrospectives with advisor check ins and daily standups. The research, design, implemenation, testing, and maintenance took place over a period of 10 weeks. The public repository with all documentation and information can be found [here](https://github.com/cse110-sp24-group5/cse110-sp24-group5). The link to our webapp is [https://cse110-sp24-group5.github.io/cse110-sp24-group5/source/html/index.html](https://cse110-sp24-group5.github.io/cse110-sp24-group5/source/html/index.html). Here are some features of our local-first application:<br>
-![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/dashboard.gif?raw=true)
-![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/calendar-demo.gif?raw=true)
-![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/developer-journal-demo.gif?raw=true)
-![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/keyboard-shortcuts.gif?raw=true)
-![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/pwa.gif?raw=true)
+<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/dashboard.gif?raw=true" width=1000>
+<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/calendar-demo.gif?raw=true" width=1000>
+<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/developer-journal-demo.gif?raw=true" width=1000>
+<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/keyboard-shortcuts.gif?raw=true" width=1000>
+<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/pwa.gif?raw=true" width=1000>
 
 My personal contributions to the project were:
 - HTML, CSS, and JS for one of the main website features – calendar with
@@ -71,7 +73,7 @@ This is a report revolving around utilizing data science in practice to discover
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/state_temps.png?raw=true)
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/players_per_state.png?raw=true)
 ![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/players_per_state_sorted.png?raw=true)
-![](https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/temp_vs_player.png?raw=true)
+<img src="https://github.com/vishaalgaddipati/PortfolioWebsite/blob/main/Screenshots/temp_vs_player.png?raw=true" width=1020>
 
 ## Relevant Courses
 Software Engineering, Data Structures and Object Oriented Design, Advanced Data Structures, Software Tools and Techniques Lab, Discrete Mathematics, Statistical Methods, Computer Graphics, Design and Analysis of Algorithms, Data Science in Practice, Calculus and Analytic Geometry for Science and Engineering, Computer Organization and Systems Programming, Theory of Computation, and Recommender Systems and Web Mining.
