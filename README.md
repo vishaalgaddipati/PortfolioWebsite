@@ -21,7 +21,7 @@ PodPrepare is a web application designed to simplify podcast production by provi
 
 The project was built during my time as a Software Engineer Intern at Affogato Holdings using React, Firebase, Stripe, and Node.js, following Agile methodologies with sprint-based development, daily standups, and iterative feedback cycles. Over a three-month development period, our team focused on launching the beta, gathering user feedback, deploying updates, and refining features based on real-world use cases, leveraging AI tools during the process.
 
-- Live App: https://podprepare.com/
+- Live App: [https://podprepare.com/](https://podprepare.com/)
 
 Key Features:
 - Episode Planner – Structure episodes with notes, questions, and talking points.
