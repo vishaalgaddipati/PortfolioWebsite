@@ -1,7 +1,7 @@
 # Vishaal Gaddipati
 
 ## About Me
-Hello! I’m Vishaal, a recent graduate from the University of California, San Diego, where I majored in Mathematics-Computer Science. I completed my degree in three years and am now seeking opportunities to gain work experience and further develop my skills.
+Hello! I’m Vishaal, a recent graduate from the University of California, San Diego, with a degree in Mathematics-Computer Science. I completed my degree in just three years and am now seeking full-time opportunities to gain hands-on experience and further develop my skills. Below, you'll find detailed information on my recent projects, including those from previous employment, internships, and personal endeavors.
 
 ## Projects
 - [PodPrepare](#pod_prepare)
